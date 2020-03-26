@@ -10,14 +10,20 @@
   "author": "Taha Shashtari <taha@tahazsh.com>",
   "dependencies": {
     "bcrypt": "^3.0.6",
+    "bluebird": "^3.7.2",
+    "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "cross-env": "^6.0.3",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
+    "keypair": "^1.0.1",
     "mongoose": "^5.7.7",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0"
+    "passport-jwt": "^4.0.0",
+    "redis": "^3.0.2",
+    "uuid": "^7.0.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
