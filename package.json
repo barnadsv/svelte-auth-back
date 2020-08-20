@@ -9,7 +9,7 @@
   },
   "author": "Taha Shashtari <taha@tahazsh.com>",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.7.2",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
